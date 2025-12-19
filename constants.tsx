@@ -239,5 +239,5 @@ export const UPSELL_ADDONS: Addon[] = [
   { name: "Extra CPU", price: "₹79/mo", icon: "fa-microchip", description: "+1 vCore" },
 ];
 
-export const DISCORD_URL = "https://discord.gg/2mjpaZ6bfK";
+export const DISCORD_URL = "https://discord.gg/MS4TRNUyes";
 export const WEB_DEV_DISCORD_URL = "https://discord.gg/MS4TRNUyes";
